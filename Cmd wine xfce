@@ -1,0 +1,9 @@
+wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/main/scripts/termux_native/mobox_run.sh
+
+chmod +x mobox_run.sh
+
+./mobox_run.sh explorer
+
+wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/main/scripts/termux_native/MoboxExplorer.desktop
+
+https://www.youtube.com/watch?v=rq85dxMb7e4
